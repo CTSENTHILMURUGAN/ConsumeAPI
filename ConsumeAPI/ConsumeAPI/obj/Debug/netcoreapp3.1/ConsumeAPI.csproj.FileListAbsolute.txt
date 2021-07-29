@@ -1,0 +1,11 @@
+C:\Users\kamalar\source\repos\ConsumeAPI\ConsumeAPI\bin\Debug\netcoreapp3.1\ConsumeAPI.exe
+C:\Users\kamalar\source\repos\ConsumeAPI\ConsumeAPI\bin\Debug\netcoreapp3.1\ConsumeAPI.deps.json
+C:\Users\kamalar\source\repos\ConsumeAPI\ConsumeAPI\bin\Debug\netcoreapp3.1\ConsumeAPI.runtimeconfig.json
+C:\Users\kamalar\source\repos\ConsumeAPI\ConsumeAPI\bin\Debug\netcoreapp3.1\ConsumeAPI.runtimeconfig.dev.json
+C:\Users\kamalar\source\repos\ConsumeAPI\ConsumeAPI\bin\Debug\netcoreapp3.1\ConsumeAPI.dll
+C:\Users\kamalar\source\repos\ConsumeAPI\ConsumeAPI\bin\Debug\netcoreapp3.1\ConsumeAPI.pdb
+C:\Users\kamalar\source\repos\ConsumeAPI\ConsumeAPI\obj\Debug\netcoreapp3.1\ConsumeAPI.AssemblyInfoInputs.cache
+C:\Users\kamalar\source\repos\ConsumeAPI\ConsumeAPI\obj\Debug\netcoreapp3.1\ConsumeAPI.AssemblyInfo.cs
+C:\Users\kamalar\source\repos\ConsumeAPI\ConsumeAPI\obj\Debug\netcoreapp3.1\ConsumeAPI.dll
+C:\Users\kamalar\source\repos\ConsumeAPI\ConsumeAPI\obj\Debug\netcoreapp3.1\ConsumeAPI.pdb
+C:\Users\kamalar\source\repos\ConsumeAPI\ConsumeAPI\obj\Debug\netcoreapp3.1\ConsumeAPI.csprojAssemblyReference.cache
